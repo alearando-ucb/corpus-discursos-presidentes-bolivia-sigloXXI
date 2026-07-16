@@ -17,7 +17,7 @@ de lenguaje natural (PLN).
 La fuente de cada discurso, están en [`catalog.json`](./catalog.json).
 
 No se incluyen los discursos de asunción de Jorge Quiroga(2001), Gonzalo Sánchez de Lozada (2002), ni las reelecciones de Evo Morales(2010 y 2015), porque no se logró encontrar el discurso intégro en fuentes en línea.
-Lamentablemente Bolivia no cuenta con un archivo oficial centralizado en línea de discursos presidenciales, es posible que existan registros físicos de los discursos en archivos como el del Congreso de la Nación, pero al no estar el archivo en línea su consulta es complicada.
+Lamentablemente Bolivia no cuenta con un archivo oficial centralizado en línea de discursos presidenciales, es posible que existan registros físicos de los discursos en archivos como el de la Asamblea Legislativa Plurinacional, pero al no estar el archivo en línea su consulta fue imposible.
 
 ## Estructura del repositorio
 
