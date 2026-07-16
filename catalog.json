@@ -1,0 +1,37 @@
+[
+  {
+    "presidente": "Carlos Mesa",
+    "año": 2003,
+    "tipo_asuncion": "sucesión",
+    "archivo": "2003_mesa.txt",
+    "fuente": "https://carlosdmesa.com/2013/10/17/mi-discurso-de-posesion-como-presidente-el-17-de-octubre-de-2003/"
+  },
+  {
+    "presidente": "Eduardo Rodríguez Veltzé",
+    "año": 2005,
+    "tipo_asuncion": "sucesión",
+    "archivo": "2005_rodriguez_veltze.txt",
+    "fuente": "https://reliefweb.int/report/bolivia/discurso-de-eduardo-rodriguez-veltze-tras-su-posesion-como-presidente-constitucional"
+  },
+  {
+    "presidente": "Evo Morales",
+    "año": 2006,
+    "tipo_asuncion": "elección directa",
+    "archivo": "2006_morales.txt",
+    "fuente": "https://www.pagina12.com.ar/diario/especiales/18-62330-2006-01-30.html"
+  },
+  {
+    "presidente": "Luis Arce",
+    "año": 2020,
+    "tipo_asuncion": "elección directa",
+    "archivo": "2020_arce.txt",
+    "fuente": "https://www.mateamargo.org.uy/2020/11/09/asumio-luis-arce-en-bolivia-discurso-completo/"
+  },
+  {
+    "presidente": "Rodrigo Paz",
+    "año": 2025,
+    "tipo_asuncion": "elección directa",
+    "archivo": "2025_paz.txt",
+    "fuente": "https://jcduran.es/discurso-presidente-rodrigo-paz/"
+  }
+]
